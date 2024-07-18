@@ -1,0 +1,5 @@
+- adresár GB_to_do_list obsahuje všetky zdrojové kódy
+- adresár GB_to_do_list obsahuje spustiteľnú verziu aplikácie bez potreby inštalácie (stačí iba dvojklikom spustiť súbor s názvom index avšak všetky súbory musia byť v rovnakom adresári bundle )
+- vyhľadávanie pomocou search baru vyhľadáva úlohy v liste na základe ich názvu avšak ak chceme vyhľadávať úlohy na základe tagov treba pridať do search baru pred názov tagu ešte "#" (#tag1 #tag2 ...)
+- ak chceme pridať viacero tagov k jednej úlohe, tagy treba písať do formuláru oddelené čiarkou a bez hashtagu (tag1,tag2,Jano,cat,...)
+- aplikácia obsahuje zopár dopredu vytvorených úloh ktoré už sú aj na mockapi pre lepšiu ukážku funkcionality
